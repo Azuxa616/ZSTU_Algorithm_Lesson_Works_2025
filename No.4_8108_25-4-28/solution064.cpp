@@ -15,7 +15,7 @@ int main() {
     vector<int> weights(N + 1);
     vector<int> values(N + 1);
     
-    // 输入每种物品的重量和价值
+    // 输1入每种物品的重量和价值
     for (int i = 1; i <= N; i++) {
         cin >> weights[i] >> values[i];
     }
